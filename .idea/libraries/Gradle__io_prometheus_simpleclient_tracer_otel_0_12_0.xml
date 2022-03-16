@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.prometheus:simpleclient_tracer_otel:0.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.prometheus/simpleclient_tracer_otel/0.12.0/161b6c001775dcdd5949a1afac15c751cce808f7/simpleclient_tracer_otel-0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.prometheus/simpleclient_tracer_otel/0.12.0/f5c366cc5c60b867944abed33bf6d210feeee7bb/simpleclient_tracer_otel-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.prometheus:simpleclient:0.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.prometheus/simpleclient/0.12.0/e8c3a7da95f65e16ec04a64190ebfce5ff19334d/simpleclient-0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.prometheus/simpleclient/0.12.0/e5baffbed1cd581ef8e931c0c7be3401f5c12ba6/simpleclient-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
